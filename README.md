@@ -1,2 +1,2 @@
 # docs
-PG LAB Electronics documentaion
+PG LAB Electronics documentation
