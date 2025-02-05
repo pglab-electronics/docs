@@ -49,7 +49,7 @@ Mechanical Information
 | Standard Input Voltage    | 12 VDC                               |
 | Supply Current Min.       | 7mA                                  |
 | Permissible Voltage Range | 9 - 20 VDC                           |
-| Protection                | transient protected                  |
+| Protection                | Transient protected                  |
 
 Functional Overview
 -------------------
@@ -89,7 +89,7 @@ Operation Conditions
 
 E-BOARD must operate under the following conditions.
 
-| **Description**          | **Min**         | **Max**        |
+| **Description**          | **Min.**         | **Max.**        |
 | :------------------------| :---------------|:---------------|
 | Input Voltage            | 9 V             | 20 V           |
 | Ambient Temperature      | 0 °C            | 55 °C          |
@@ -148,6 +148,7 @@ Wiring Diagram
 
 Setup and Use
 -------------
+
 :warning: **Important** Before beginning the installation, please read carefully and completely the
 documentation. Failure to follow recommended procedures could lead to malfunction,
 danger to your life or violation of the law. PG LAB Electronics is not responsible for any
@@ -164,7 +165,7 @@ damage the E-BOARD device.
 all applicable regulations. A short circuit in any appliance connected
 to the E-BOARD/E-RELAY may damage the device.
 
-:warning: **Caution** Do not connect E-BOARD to appliances exceeding the given maximum load!
+:warning: **Caution** Do not connect E-BOARD/E-RELAY to appliances exceeding the given maximum load!
 
 :warning: **Caution** Connect the E-BOARD only in the way shown in these instructions. Any other
 method could cause damage and/or injury.
@@ -174,7 +175,7 @@ knowledgeable about high AC Voltage. There is danger of electrocution. Mounting 
 device to the power grid has to be performed with caution. The mounting/installation
 of E-BOARD/E-RELAY should be done by a qualified person (electrician).
 
-:warning: **Important**  Even when the E-BOARD is turned off, it is possible to have high voltage across
+:warning: **Important**  Even when the E-BOARD/E-RELAY is turned off, it is possible to have high voltage across
 the screw terminals. Every change in the connection of the wires connected to the
 screw terminals must be done after ensuring all local power is powered off/disconnected.
 
