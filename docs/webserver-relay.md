@@ -2,14 +2,14 @@ Relay
 =====
 
 !!! success
-    To have an effective change, click the SAVE button at the end of the **"Setting"** page and reboot E-BOARD from the **"Reboot"** page.
+    To have an effective change. Click the SAVE button at the end of the **"Setting"** page and reboot E-BOARD from the **"Reboot"** page.
 
-E-BOARD can operate two distinct device types at the same time: 
+E-BOARD can operate two distinct device types at the same time:
 
 - Relay  
-- Shutter (bi-directional AC motor). 
+- Shutter (bi-directional AC motor).
 
-E-BOARD default configuration is to use Relay only. 
+E-BOARD default configuration is to use Relay only.
 
 A Relay output is controlled individually and supports the ON and OFF commands.
 You can use E-BOARD internal web-server to toggle the Relay status.<br>
