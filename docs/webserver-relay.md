@@ -7,7 +7,7 @@ Relay
 E-BOARD can operate two distinct device types at the same time:
 
 - Relay  
-- Shutter (bi-directional AC motor).
+- Shutter (bi-directional AC motor)
 
 E-BOARD default configuration is to use Relay only.
 
@@ -19,7 +19,7 @@ It should do the following:
 
 - Turn ON the terminal output
 - Turn ON the status LED on the E-RELAY 
-- The Home page should update as the following picture.
+- The Home page should update as the following picture
 
 <center>![image_alt](img/relay.png){width="512"  style="border: 1px solid grey;" }</center>
 

@@ -7,7 +7,7 @@ Shutter
 E-BOARD can operate two distinct device types at the same time:
 
 - Relay  
-- Shutter (bi-directional AC motor).
+- Shutter (bi-directional AC motor)
 
 E-BOARD default configuration is to use Relay only.
 
