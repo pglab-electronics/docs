@@ -3,10 +3,14 @@ theme:
   name: material
   features:
     - navigation.instant
+    - navigation.tabs
+    
+
   language: en
   logo: img/logo.png
   favicon: img/favicon.png
   palette:
+    
     - scheme: default
       primary: orange
       accent: purple 
@@ -25,29 +29,38 @@ theme:
         example: octicons/beaker-16
         quote: octicons/quote-16
 nav:
-    - Home: index.md
-    - Hardware:
-      - E-BOARD: eboard.md
-      - E-RELAY: erelay.md
-    - Getting Start:
-      - Hardware Requirements: requirements.md
-      - Installation: installation.md
-      - Find IP: find-ip.md
-      - Wiring: wiring.md
-    - WebUI:
-      - Introduction: webserver-intro.md
-      - Relay: webserver-relay.md
-      - Shutter: webserver-shutter.md
-      - Network: webserver-network.md
-      - Setting: webserver-setting.md
-      - Reboot: webserver-reboot.md
-      - About: webserver-about.md
-      - Firmware: webserver-firmware.md
+    - HOME: index.md
 
-    - Connectivity:
-      - MQTT: mqtt.md
-      - Home Assistant: homeassistant-integraton.md
-      - Python: python.md
+    - E-BOARD:
+      - HARDWARE: eboard/eboard.md
+      - SETUP:
+        - REQUIREMENTS: eboard/requirements.md
+        - INSTALLATION: eboard/installation.md
+        - FIND IP: eboard/find-ip.md
+      - WEB SERVER:
+        - INTRO: eboard/webserver-intro.md
+        - RELAY: eboard/webserver-relay.md
+        - SHUTTER: eboard/webserver-shutter.md
+        - NETWORK: eboard/webserver-network.md
+        - SETTING: eboard/webserver-setting.md
+        - REBOOT: eboard/webserver-reboot.md
+        - ABOUT: eboard/webserver-about.md
+        - FIRMWARE: eboard/webserver-firmware.md
+      - CONNECTIVITY:
+        - MQTT: eboard/mqtt.md
+        - HOME ASSISTANT: eboard/homeassistant-integraton.md
+        - PYTHON: eboard/python.md
+
+    - E-RELAY: 
+      - HARDWARE: erelay/erelay.md
+      - SETUP:
+        - REQUIREMENTS: erelay/requirements.md
+        - INSTALLATION: erelay/installation.md        
+        - WIRING: erelay/wiring.md
+
+    - E-VLXESP32: 
+      - HARDWARE: evlxesp32/evlxesp32.md
+
 
 markdown_extensions:
   - admonition
