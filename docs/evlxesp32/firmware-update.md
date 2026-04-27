@@ -15,9 +15,7 @@ Flashing is straightforward, and you can use either the **Command Line** or **Ho
 
 ![E-VLXESP32](img/setup.png){: .center}
 
-<p style="text-align: center; font-weight: bold">
-Fig. 1 – Hardware
-</p>
+<p style="text-align: center; font-weight: bold">Fig. 1 – Hardware</p>
 
 **(*)** You can use any computer with WINDOWS/LINUX/OSX or any device able to run HomeAssistant.
 
@@ -96,9 +94,7 @@ Connect E-VLXESP32 to your computer with the USB-C cable as show in Fig. 2.
 
 ![E-VLXESP32](img/usb-c.png){: .center}
 
-<p style="text-align: center; font-weight: bold">
-Fig. 2 – USB cable
-</p>
+<p style="text-align: center; font-weight: bold">Fig. 2 – USB cable</p>
 
 Open a terminal windows and run:
 
@@ -110,9 +106,7 @@ When prompted, select **USB JTAG/Serial** option as show in Fig. 3.
 
 ![E-VLXESP32](img/esphome-flash.gif){: .center }
 
-<p style="text-align: center; font-weight: bold">
-Fig. 23 – Terminal window
-</p>
+<p style="text-align: center; font-weight: bold">Fig. 23 – Terminal window</p>
 
 ---
 

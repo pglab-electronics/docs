@@ -27,9 +27,7 @@ You will need a **small flat-head screwdriver**.
 
 ![Small flat head screwdriver](img/evlxesp32_tool.png){: .center}
 
-<p style="text-align: center; font-weight: bold">
-Fig. 1 – Small flat-head screwdriver
-</p>
+<p style="text-align: center; font-weight: bold">Fig. 1 – Small flat-head screwdriver</p>
 
 ---
 
@@ -39,9 +37,7 @@ Using the screwdriver, carefully remove the back cover from the **VELUX®** remo
 
 ![Removing the back cover](img/evlxesp32_backcover.png){: .center}
 
-<p style="text-align: center; font-weight: bold">
-Fig. 2 – Back cover removal
-</p>
+<p style="text-align: center; font-weight: bold">Fig. 2 – Back cover removal</p>
 
 ---
 
@@ -59,9 +55,7 @@ Remove any batteries from the remote control.
 
 ![Battery removal](img/evlxesp32_batteries.png){: .center }
 
-<p style="text-align: center; font-weight: bold">
-Fig. 3 – Battery removal
-</p>
+<p style="text-align: center; font-weight: bold">Fig. 3 – Battery removal</p>
 
 ---
 
@@ -79,9 +73,7 @@ Use the screwdriver to gently release the snap-fit mechanism.
 
 ![Battery holder removal](img/evlxesp32_holder.gif){: .center}
 
-<p style="text-align: center; font-weight: bold">
-Fig. 4 – Battery holder removal
-</p>
+<p style="text-align: center; font-weight: bold">Fig. 4 – Battery holder removal</p>
 
 ---
 
@@ -95,9 +87,7 @@ All gold-plated pads must be in the same position.
 
 ![Compatible PCB layout](img/evlxesp32_pcb.png){: .center}
 
-<p style="text-align: center; font-weight: bold">
-Fig. 5 – Compatible PCB layout
-</p>
+<p style="text-align: center; font-weight: bold">Fig. 5 – Compatible PCB layout</p>
 
 ---
 
@@ -108,9 +98,7 @@ Your **VELUX®** wall remote control is now ready to be connected to **E-VLXESP3
 
 ![Remote ready](img/evlxesp32_cover.png){: .center }
 
-<p style="text-align: center; font-weight: bold">
-Fig. 6 – Remote ready for connection
-</p>
+<p style="text-align: center; font-weight: bold">Fig. 6 – Remote ready for connection</p>
 
 ## Next Step
 

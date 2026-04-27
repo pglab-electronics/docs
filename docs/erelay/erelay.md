@@ -88,9 +88,7 @@ Functional Overview
 
 ![image_alt](img/erelay_overview.png){: .center}
 
-<p style="text-align: center; font-weight: bold">
-E-RELAY Product View
-</p><br>
+<p style="text-align: center; font-weight: bold">E-RELAY Product View</p><br>
 
 | **Ref**           |  **Description**          |
 | :-----------------| :-------------------------|
@@ -134,9 +132,7 @@ Mechanical Information
 
 ![image_alt](img/erelay_dimension.png){: .center}
 
-<p style="text-align: center; font-weight: bold">
-E-RELAY outline (dimensions in mm).
-</p><br>
+<p style="text-align: center; font-weight: bold">E-RELAY outline (dimensions in mm).</p><br>
  
 | **Description**           |  **Value**                           |
 | :-------------------------| :----------------------------------- |
@@ -165,9 +161,7 @@ I2C Connector
 
 ![image_alt](../eboard/img/i2c.png){: .center}
 
-<p style="text-align: center; font-weight: bold">
-I2C Bus Connector
-</p><br>
+<p style="text-align: center; font-weight: bold">I2C Bus Connector</p><br>
 
 | **Pin**      |  **Description**         |
 | :------------| :------------------------|
@@ -190,9 +184,7 @@ Board Topology
 
 ![image_alt](img/erelay_board.png){: .center}
 
-<p style="text-align: center; font-weight: bold">
-E-RELAY Circuit Top View
-</p><br>
+<p style="text-align: center; font-weight: bold">E-RELAY Circuit Top View</p><br>
 
 
 | **Ref.**     |  **Description**                           |
@@ -216,16 +208,12 @@ Wiring Diagram
 
 ![image_alt](img/erelay_connection.png){: .center}
 
-<p style="text-align: center; font-weight: bold">
-E-RELAY connected with a load
-</p><br>
+<p style="text-align: center; font-weight: bold">E-RELAY connected with a load</p><br>
 
 
 ![image_alt](../eboard/img/eboard_connection.png){: .center}
 
-<p style="text-align: center; font-weight: bold">
-E-RELAY connected to E-BOARD
-</p><br>
+<p style="text-align: center; font-weight: bold">E-RELAY connected to E-BOARD</p><br>
 
 Setup and Use
 -------------
