@@ -13,8 +13,11 @@ Flashing is straightforward, and you can use either the **Command Line** or **Ho
     - USB-C cable  
     - A computer **(*)** to build and upload the firmware
 
-<center>![E-VLXESP32](img/setup.png)</center>
-<center>*Fig. 1 – *</center>
+![E-VLXESP32](img/setup.png){: .center}
+
+<p style="text-align: center; font-weight: bold">
+Fig. 1 – Hardware
+</p>
 
 **(*)** You can use any computer with WINDOWS/LINUX/OSX or any device able to run HomeAssistant.
 
@@ -91,8 +94,11 @@ wifi:
 
 Connect E-VLXESP32 to your computer with the USB-C cable as show in Fig. 2.
 
-<center>![E-VLXESP32](img/usb-c.png)</center>
-<center>*Fig. 2 – USB cable*</center>
+![E-VLXESP32](img/usb-c.png){: .center}
+
+<p style="text-align: center; font-weight: bold">
+Fig. 2 – USB cable
+</p>
 
 Open a terminal windows and run:
 
@@ -102,9 +108,11 @@ $ esphome run evlxesp32.yaml
 
 When prompted, select **USB JTAG/Serial** option as show in Fig. 3.
 
+![E-VLXESP32](img/esphome-flash.gif){: .center }
 
-<center>![E-VLXESP32](img/esphome-flash.gif)</center>
-<center>*Fig. 23 – Terminal window*</center>    
+<p style="text-align: center; font-weight: bold">
+Fig. 23 – Terminal window
+</p>
 
 ---
 
@@ -150,8 +158,6 @@ You can flash the firmware either:
 - From the command line on your terminal window.
   
 - Using Home Assistant with the ESPHome Builder add-on, or
-
-
 
 Command Line
 ------------

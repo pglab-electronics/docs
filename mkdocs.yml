@@ -85,3 +85,4 @@ markdown_extensions:
   - pymdownx.tilde
 extra_css:
   - style.css
+  - stylesheets/extra.css

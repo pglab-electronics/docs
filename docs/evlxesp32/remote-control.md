@@ -25,8 +25,11 @@ Before proceeding, verify that you can **open, close, and stop** the skylight wi
 
 You will need a **small flat-head screwdriver**.
 
-<center>![Small flat head screwdriver](img/evlxesp32_tool.png)</center>
-<center>*Fig. 1 – Small flat-head screwdriver*</center>
+![Small flat head screwdriver](img/evlxesp32_tool.png){: .center}
+
+<p style="text-align: center; font-weight: bold">
+Fig. 1 – Small flat-head screwdriver
+</p>
 
 ---
 
@@ -34,8 +37,11 @@ You will need a **small flat-head screwdriver**.
 
 Using the screwdriver, carefully remove the back cover from the **VELUX®** remote control.
 
-<center>![Removing the back cover](img/evlxesp32_backcover.png)</center>
-<center>*Fig. 2 – Back cover removal*</center>
+![Removing the back cover](img/evlxesp32_backcover.png){: .center}
+
+<p style="text-align: center; font-weight: bold">
+Fig. 2 – Back cover removal
+</p>
 
 ---
 
@@ -51,8 +57,11 @@ Remove any batteries from the remote control.
     Batteries are **no longer required**.  
     The **E-VLXESP32** powers the **VELUX®** remote via pogo pins.
 
-<center>![Battery removal](img/evlxesp32_batteries.png)</center>
-<center>*Fig. 3 – Battery removal*</center>
+![Battery removal](img/evlxesp32_batteries.png){: .center }
+
+<p style="text-align: center; font-weight: bold">
+Fig. 3 – Battery removal
+</p>
 
 ---
 
@@ -68,8 +77,11 @@ Use the screwdriver to gently release the snap-fit mechanism.
     If the snap-fit mechanism is damaged, **do not connect** the **VELUX®** remote to **E-VLXESP32**.
     Misaligned pogo pins may cause electrical damage or malfunction.
 
-<center>![Battery holder removal](img/evlxesp32_holder.gif)</center>
-<center>*Fig. 4 – Battery holder removal*</center>
+![Battery holder removal](img/evlxesp32_holder.gif){: .center}
+
+<p style="text-align: center; font-weight: bold">
+Fig. 4 – Battery holder removal
+</p>
 
 ---
 
@@ -81,8 +93,11 @@ All gold-plated pads must be in the same position.
 !!! danger
     If the PCB layout does **not** match, **do not connect** the remote to **E-VLXESP32**.
 
-<center>![Compatible PCB layout](img/evlxesp32_pcb.png)</center>
-<center>*Fig. 5 – Compatible PCB layout*</center>
+![Compatible PCB layout](img/evlxesp32_pcb.png){: .center}
+
+<p style="text-align: center; font-weight: bold">
+Fig. 5 – Compatible PCB layout
+</p>
 
 ---
 
@@ -91,8 +106,11 @@ All gold-plated pads must be in the same position.
 Congratulations!  
 Your **VELUX®** wall remote control is now ready to be connected to **E-VLXESP32**.
 
-<center>![Remote ready](img/evlxesp32_cover.png)</center>
-<center>*Fig. 6 – Remote ready for connection*</center>
+![Remote ready](img/evlxesp32_cover.png){: .center }
+
+<p style="text-align: center; font-weight: bold">
+Fig. 6 – Remote ready for connection
+</p>
 
 ## Next Step
 

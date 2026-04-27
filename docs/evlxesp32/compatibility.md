@@ -6,8 +6,11 @@
 - **KLI312**
 - **KLI313**
 
-<center>![Removing the back cover](img/kli31x.png)</center>
-<center>*Fig. 1 – KLI311, KLI312, KLI313 *</center>
+![Removing the back cover](img/kli31x.png){: .center }
+
+<p style="text-align: center; font-weight: bold">
+Fig. 1 – KLI311, KLI312, KLI313
+</P>
 
 ---
 
@@ -22,8 +25,10 @@ All gold-plated pads must be in the same position.
 !!! danger
     If the PCB layout does **not** match, **do not connect** the remote to **E-VLXESP32**.
 
-<center>![Compatible PCB layout](img/evlxesp32_pcb.png)</center>
-<center>*Fig. 2 – Compatible PCB layout*</center>
+![Compatible PCB layout](img/evlxesp32_pcb.png){: .center }
+<p style="text-align: center; font-weight: bold">
+Fig. 2 – Compatible PCB layout
+</p>
 
 
 ### Disclaimer

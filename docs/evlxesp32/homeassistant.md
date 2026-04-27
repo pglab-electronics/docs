@@ -42,10 +42,12 @@ Follow this steps to add a new device:
 - On top of the page under Discovered section you should see your E-VLXESP32 device
 - Click Add
 
-<center>![Encryption Key](img/encryption_key.png){ width=512  }</center>
+![Encryption Key](img/encryption_key.png){: .center width="512"}
 
 - Home Assistant should ask the **Encryption Key**
-- Please enter: **pQUjUzzg6T7NuOX4uYN6v4XvBkFcAQHzmYbr63DFmD4=**
+- Please enter:
+  
+        **pQUjUzzg6T7NuOX4uYN6v4XvBkFcAQHzmYbr63DFmD4=**
 
 Congratulation E-VLXESP32 is fully integrated in HomeAssistant.
 

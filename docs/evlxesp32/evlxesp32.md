@@ -1,10 +1,11 @@
 # E-VLXESP32
 
-![E-VLXESP32](./img/evlxesp32.png){width=512}
+![E-VLXESP32](./img/evlxesp32.png){: .center width="512"}
+
 
 ## Description
 
-The **E-VLXESP32** is an electronics development board with an integrated **temperature and humidity sensor**.
+The **E-VLXESP32** is a compact electronics module featuring an integrated **temperature and humidity sensor**.
   
 It is designed to interface with battery-powered **VELUX®** wall remote controls **(*)** (models **KLI311, KLI312, KLI313**) and allows users to explore and test smart automation for remotely controlling **VELUX®** motorized skylight windows.
 
@@ -42,8 +43,11 @@ The following table shows the **general specifications** of the **E-VLXESP32**.
 
 ## Functional Overview
 
-<center>![E-VLXESP32 views](img/evlxesp32_view.png)</center>
-<center>*E-VLXESP32 views.*</center><br />
+![E-VLXESP32 views](img/evlxesp32_view.png){: .center}
+
+<p style="text-align: center; font-weight: bold">
+E-VLXESP32 views.
+</p><br>
 
 | **Ref.** | **Description**                                      |
 |----------|------------------------------------------------------|
@@ -59,8 +63,11 @@ The following table shows the **general specifications** of the **E-VLXESP32**.
 
 ## Mechanical Information
 
-<center>![E-VLXESP32 dimensions](img/evlxesp32_dimension.png)</center>
-<center>*E-VLXESP32 outline (dimensions in mm).* </center><br />
+![E-VLXESP32 dimensions](img/evlxesp32_dimension.png){: .center}
+
+<p style="text-align: center; font-weight: bold">
+E-VLXESP32 outline (dimensions in mm).
+</p><br>
 
 | **Description**       | **Value**                    |
 |-----------------------|------------------------------|
@@ -90,7 +97,11 @@ The **E-VLXESP32** must operate under the following conditions:
 
 ## Board Topology
 
-<center>![E-VLXESP32 overview](img/evlxesp32_overview.png)</center>
+![E-VLXESP32 overview](img/evlxesp32_overview.png){: .center}
+
+<p style="text-align: center; font-weight: bold">
+E-VLXESP32 Circuit Top View
+</p><br>
 
 | **Ref.** | **Name**                 | **Description**                                                       |
 |----------|--------------------------|-----------------------------------------------------------------------|
@@ -103,7 +114,6 @@ The **E-VLXESP32** must operate under the following conditions:
 | 1g       | LDO                      | Low-noise voltage regulator                                           |
 | 1h       | USB-C                    | Flashing firmware and powering the board                               |
 
-<center>*E-VLXESP32 Circuit Top View*</center><br />
 
 ---
 
@@ -122,8 +132,11 @@ The **E-VLXESP32** must operate under the following conditions:
 
 ## Wiring Diagram
 
-<center>![E-VLXESP32 wiring](img/evlxesp32_wiring.png)</center>
-<center>*E-VLXESP32 connected to the AC power line*</center><br />
+![E-VLXESP32 wiring](img/evlxesp32_wiring.png){: .center}
+
+<p style="text-align: center; font-weight: bold">
+E-VLXESP32 connected to the AC power line
+</p><br>
 
 ---
 
