@@ -60,7 +60,14 @@ nav:
 
     - E-VLXESP32: 
       - HARDWARE: evlxesp32/evlxesp32.md
-
+      - COMPATIBILITY: evlxesp32/compatibility.md
+      - REQUIREMENTS: evlxesp32/requirements.md
+      - INSTALLATION: evlxesp32/installation.md
+      - REMOTE CONTROL: evlxesp32/remote-control.md      
+      - WALL INSTALLATION: evlxesp32/wall-installation.md
+      - WI-FI SETUP: evlxesp32/wifi.md        
+      - HOME ASSISTANT: evlxesp32/homeassistant.md
+      - FIRMWARE UPDATE: evlxesp32/firmware-update.md
 
 markdown_extensions:
   - admonition
