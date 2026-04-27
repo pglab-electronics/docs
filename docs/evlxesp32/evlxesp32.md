@@ -45,9 +45,7 @@ The following table shows the **general specifications** of the **E-VLXESP32**.
 
 ![E-VLXESP32 views](img/evlxesp32_view.png){: .center}
 
-<p style="text-align: center; font-weight: bold">
-E-VLXESP32 views.
-</p><br>
+<p style="text-align: center; font-weight: bold">E-VLXESP32 views.</p><br>
 
 | **Ref.** | **Description**                                      |
 |----------|------------------------------------------------------|
@@ -65,9 +63,7 @@ E-VLXESP32 views.
 
 ![E-VLXESP32 dimensions](img/evlxesp32_dimension.png){: .center}
 
-<p style="text-align: center; font-weight: bold">
-E-VLXESP32 outline (dimensions in mm).
-</p><br>
+<p style="text-align: center; font-weight: bold">E-VLXESP32 outline (dimensions in mm).</p><br>
 
 | **Description**       | **Value**                    |
 |-----------------------|------------------------------|
@@ -99,9 +95,7 @@ The **E-VLXESP32** must operate under the following conditions:
 
 ![E-VLXESP32 overview](img/evlxesp32_overview.png){: .center}
 
-<p style="text-align: center; font-weight: bold">
-E-VLXESP32 Circuit Top View
-</p><br>
+<p style="text-align: center; font-weight: bold">E-VLXESP32 Circuit Top View</p><br>
 
 | **Ref.** | **Name**                 | **Description**                                                       |
 |----------|--------------------------|-----------------------------------------------------------------------|
@@ -113,7 +107,6 @@ E-VLXESP32 Circuit Top View
 | 1f       | ESD                      | Data line ESD protection                                              |
 | 1g       | LDO                      | Low-noise voltage regulator                                           |
 | 1h       | USB-C                    | Flashing firmware and powering the board                               |
-
 
 ---
 
@@ -134,9 +127,7 @@ E-VLXESP32 Circuit Top View
 
 ![E-VLXESP32 wiring](img/evlxesp32_wiring.png){: .center}
 
-<p style="text-align: center; font-weight: bold">
-E-VLXESP32 connected to the AC power line
-</p><br>
+<p style="text-align: center; font-weight: bold">E-VLXESP32 connected to the AC power line</p><br>
 
 ---
 

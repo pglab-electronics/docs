@@ -33,9 +33,7 @@ The following image shows the power line wiring connections.
 
 ![Wiring to power line](img/evlxesp32_wiring2.png){ width=256 align=center }{: .center}
 
-<p style="text-align: center; font-weight: bold">
-Fig. 1 – Wiring to power line
-</p>
+<p style="text-align: center; font-weight: bold">Fig. 1 – Wiring to power line</p>
 
 | **Terminal** | **Wire** |
 |-------------|----------|
@@ -55,9 +53,7 @@ Use a phase tester or multimeter to confirm this (Fig. 2).
 
 ![No voltage on the power line](img/multimiter.png){: .center}
 
-<p style="text-align: center; font-weight: bold">
-Fig. 2 – No voltage on the power line
-</p>
+<p style="text-align: center; font-weight: bold">Fig. 2 – No voltage on the power line</p>
 
 Connect the wires to the **E-VLXESP32** according to the wiring diagram (Fig. 1).
 
@@ -66,9 +62,7 @@ Connect the wires to the **E-VLXESP32** according to the wiring diagram (Fig. 1)
 
 ![Connecting the wires](img/wiring.png){: .center}
 
-<p style="text-align: center; font-weight: bold">
-Fig. 3 – Connecting the wires
-</p>
+<p style="text-align: center; font-weight: bold">Fig. 3 – Connecting the wires</p>
 
 Insert the **E-VLXESP32** into the wall box and secure it using the two screws supplied with the box.
 
@@ -77,23 +71,17 @@ Insert the **E-VLXESP32** into the wall box and secure it using the two screws s
 
 ![Wall insertion](img/wall_screws.png){: .center}
 
-<p style="text-align: center; font-weight: bold">
-Fig. 4 – Wall insertion
-</p>
+<p style="text-align: center; font-weight: bold">Fig. 4 – Wall insertion</p>
 
 Attach the **VELUX®** wall remote control cover by pressing it onto the **E-VLXESP32** until you hear a click.
 
 ![Attach the cover](img/cover.png)
 
-<p style="text-align: center; font-weight: bold">
-Fig. 5 – Attaching the cover
-</p>
+<p style="text-align: center; font-weight: bold">Fig. 5 – Attaching the cover</p>
 
 ![Snap-fit click](img/click.png){: .center}
 
-<p style="text-align: center; font-weight: bold">
-Fig. 6 – Snap-fit click
-</p>
+<p style="text-align: center; font-weight: bold">Fig. 6 – Snap-fit click</p>
 
 !!! caution
     Be very careful not to bend the **E-VLXESP32** pogo pins when inserting the **VELUX®** wall remote control cover.
@@ -108,9 +96,7 @@ You may now restore power by turning the circuit breakers back on.
 
 ![Installation complete](img/wall_installed.png){: .center}
 
-<p style="text-align: center; font-weight: bold">
-Fig. 7 – Installation complete
-</p>
+<p style="text-align: center; font-weight: bold">Fig. 7 – Installation complete</p>
 
 ## Next Step
 

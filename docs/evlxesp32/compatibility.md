@@ -26,10 +26,7 @@ All gold-plated pads must be in the same position.
     If the PCB layout does **not** match, **do not connect** the remote to **E-VLXESP32**.
 
 ![Compatible PCB layout](img/evlxesp32_pcb.png){: .center }
-<p style="text-align: center; font-weight: bold">
-Fig. 2 – Compatible PCB layout
-</p>
-
+<p style="text-align: center; font-weight: bold">Fig. 2 – Compatible PCB layout</p>
 
 ### Disclaimer
 
