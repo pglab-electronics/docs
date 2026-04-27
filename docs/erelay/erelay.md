@@ -1,7 +1,7 @@
 E-RELAY
 =======
 
-<center>![image_alt](img/erelay.png)</center>
+![image_alt](img/erelay.png){: .center}
 
 Description
 -----------
@@ -86,9 +86,11 @@ Mechanical Information
 Functional Overview
 -------------------
 
-<center>![image_alt](img/erelay_overview.png)</center>
+![image_alt](img/erelay_overview.png){: .center}
 
-<center>*E-RELAY Product View*</center><br />
+<p style="text-align: center; font-weight: bold">
+E-RELAY Product View
+</p><br>
 
 | **Ref**           |  **Description**          |
 | :-----------------| :-------------------------|
@@ -130,9 +132,11 @@ Example: Jumper connector only on ADDR A0 pin set E-RELAY to have a relays index
 Mechanical Information
 ----------------------
 
-<center>![image_alt](img/erelay_dimension.png)</center>
+![image_alt](img/erelay_dimension.png){: .center}
 
-<center>*E-RELAY outline (dimensions in mm).*</center><br />
+<p style="text-align: center; font-weight: bold">
+E-RELAY outline (dimensions in mm).
+</p><br>
  
 | **Description**           |  **Value**                           |
 | :-------------------------| :----------------------------------- |
@@ -159,9 +163,11 @@ E-RELAY must operate under the following conditions.
 I2C Connector
 -------------
 
-<center>![image_alt](img/i2c.png)</center>
+![image_alt](../eboard/img/i2c.png){: .center}
 
-<center>*I2C Bus Connector*</center><br />
+<p style="text-align: center; font-weight: bold">
+I2C Bus Connector
+</p><br>
 
 | **Pin**      |  **Description**         |
 | :------------| :------------------------|
@@ -182,9 +188,11 @@ E-RELAY has two I2C connectors, both are equivalent. The connector is a 4 pin JS
 Board Topology
 --------------
 
-<center>![image_alt](img/erelay_board.png)</center>
+![image_alt](img/erelay_board.png){: .center}
 
-<center>*E-RELAY Circuit Top View*</center><br>
+<p style="text-align: center; font-weight: bold">
+E-RELAY Circuit Top View
+</p><br>
 
 
 | **Ref.**     |  **Description**                           |
@@ -194,7 +202,7 @@ Board Topology
 | J4, J7       | Output Screw Terminal                      |
 | A0           | Pin Header for I2C Address                 |
 | L0           | Power Red LED                              |
-| U0           | I2C Bus Extender                           |     
+| U0           | I2C Bus Extender                           |
 | U1           | I2C I/O Bus Expander PCF8574               |
 | U2           | Linear Voltage Regulator 5V to 3.3V        |
 | U3           | Switching Voltage Regulator 12V to 5V      |
@@ -206,14 +214,18 @@ Board Topology
 Wiring Diagram
 --------------
 
-<center>![image_alt](img/erelay_connection.png)</center>
+![image_alt](img/erelay_connection.png){: .center}
 
-<center>*E-RELAY connected with a load*</center><br />
+<p style="text-align: center; font-weight: bold">
+E-RELAY connected with a load
+</p><br>
 
 
-<center>![image_alt](img/eboard_connection.png)</center>
+![image_alt](../eboard/img/eboard_connection.png){: .center}
 
-<center>*E-RELAY connected to E-BOARD*</center><br />
+<p style="text-align: center; font-weight: bold">
+E-RELAY connected to E-BOARD
+</p><br>
 
 Setup and Use
 -------------
