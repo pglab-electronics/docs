@@ -17,11 +17,11 @@ From the Home page go to the [Setting](webserver-setting.md) page and change {==
 
 For example:
 
-<center>![image_alt](img/shutter_controls.png){ style="border: 1px solid grey;" }</center>
+![image_alt](img/shutter_controls.png){ style="border: 1px solid grey;" }</center>
 
 The home page should change as the following picture.
 
-<center>![image_alt](img/shutter.png){width="512"  style="border: 1px solid grey;" }</center>
+![image_alt](img/shutter.png){width="512"  style="border: 1px solid grey;" }</center>
 
 One Shutter output always uses two physical relays.<br>
 
@@ -34,13 +34,13 @@ For example **Shutter0** uses **Relay0** and **Relay1** terminal output.
 A Shutter output is controlled individually and supports the OPEN, CLOSE, STOP commands.
 You can use E-BOARD internal webserver to command a shutter. You can open/close independently any number of shutters.
 
-<center>![image_alt](img/shutter_open.png){width="512" }</center>
+![image_alt](img/shutter_open.png){width="512" }</center>
 From the Home page click the **Shutter0** OPEN button. This turns ON the terminal output to power the shutter motor in one direction, it turns ON the **Relay0** status LED and after the set time the output automatically turns OFF.
 
-<center>![image_alt](img/shutter_close.png){width="512" }</center>
+![image_alt](img/shutter_close.png){width="512" }</center>
 When clicking the **Shutter0** CLOSE button. This turns ON the terminal output to power the shutter motor in the opposite direction, it turns ON the **Relay1** status LED and after the set time the output automatically turns OFF.
 
-<center>![image_alt](img/shutter_stop.png){width="512" }</center>
+![image_alt](img/shutter_stop.png){width="512" }</center>
 When the shutter is opening or closing, you can always stop the shutter by clicking the STOP button. This turns OFF the terminal outputs of **Relay0** and **Relay1**.
 
 Shutter output can be controlled also by MQTT messages. Please see [MQTT](mqtt.md) for further details.
@@ -57,7 +57,7 @@ Shutter output supports {==Shutter_Time==} setting. This is a two value timer in
 
     Go to the **"Setting"** page. Set {==Shutter_Time==} **opening** value to 20 and then set the **closing** value to 20. <br>
     As shown in the following picture.
-    <center>![image_alt](img/shutter_time.png){ style="border: 1px solid grey;" }</center>
+    ![image_alt](img/shutter_time.png){ style="border: 1px solid grey;" }</center>
 
 Shutter output supports {==Relay_Auto_Off==} setting. This is a timer in seconds for all 64 individual relays. It indicates the time in seconds the Relay output is ON. With this setting the user can set the **opening** and **closing** time for each individual shutter.
 With a zero value it uses the setting of {==Shutter_Time==} by default.

@@ -22,7 +22,7 @@ Open your preferred browser and on the address field type the E-BOARD IP number.
 
 You should be able to see the E-BOARD home page similar to the following picture.
 
-<center>![image_alt](img/home.png){width="512"  style="border: 1px solid grey;" }</center>
+![image_alt](img/home.png){width="512"  style="border: 1px solid grey;" }</center>
 
 The main page on your browser will show the status of all 64 relays. From the main page you can turn ON
 or OFF any specific relay. If the status button is green the relay is available and you can toggle the relay status.

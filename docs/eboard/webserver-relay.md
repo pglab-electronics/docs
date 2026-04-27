@@ -21,7 +21,7 @@ It should do the following:
 - Turn ON the status LED on the E-RELAY 
 - The Home page should update as the following picture
 
-<center>![image_alt](img/relay.png){width="512"  style="border: 1px solid grey;" }</center>
+![image_alt](img/relay.png){width="512"  style="border: 1px solid grey;" }</center>
 
 Relay output can also be controlled by MQTT messages. Please see [MQTT](mqtt.md) for further details.
 
@@ -41,7 +41,7 @@ With a zero value it uses the setting of {==Auto_OFF==} by default.
 
     Go to the **"Setting"** page. From the dropdown menu of {==Relay_Auto_OFF==} select the index to 5 and set the value to 12. <br>
     As shown in the following picture.
-    <center>![image_alt](img/relay_auto_off.png){ style="border: 1px solid grey;" }</center>
+    ![image_alt](img/relay_auto_off.png){ style="border: 1px solid grey;" }</center>
 
 Relay output also supports {==Max_ON==} setting. This is the number of Relay outputs that can be ON at the same time. This setting can be used to prevent power overload of the connected load on the output terminals.
 

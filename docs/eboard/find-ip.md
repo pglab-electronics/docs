@@ -70,7 +70,7 @@ Download and install the latest stable release self-installer from [nmap.org](ht
 On your desktop click and execute as administrator the Nmap-Zenmap GUI. 
 In the Command field type nmap -sn 192.168.1.* 
 
-<center>![image_alt](img/zenmap_windows.png)</center>
+![image_alt](img/zenmap_windows.png){: .center}
 
 Hit Enter on your keyboard, after few seconds the output should look similar to:
 

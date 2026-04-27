@@ -6,7 +6,7 @@ Setting
 
 From the Home page go to the Setting page. You should see a page similar to the following picture.
 
-<center>![image_alt](img/setting.png){width="512"  style="border: 1px solid grey;" }</center>
+![image_alt](img/setting.png){width="512"  style="border: 1px solid grey;" }</center>
 
 This page contains settings for:
 

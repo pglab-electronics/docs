@@ -17,17 +17,17 @@ You can use any software connected to the same MQTT server to control E-BOARD.
 To monitor the MQTT server activity we recommend installing the latest version of MQTT-Explorer. Download and install the latest stable release from [mqtt-explorer.com](https://mqtt-explorer.com).
 Open MQTT-Explorer client and set all fields to connect to the server as the following picture.
 
-<center>![image_alt](img/mqtt_explorer.png){width="512"  style="border: 1px solid grey;" }</center>
+![image_alt](img/mqtt_explorer.png){width="512"  style="border: 1px solid grey;" }</center>
 
 Click CONNECT. When connected find and expand the topic **pglab**, you should see something similar to:
 
-<center>![image_alt](img/mqtt_explorer_view.png){width="512"  style="border: 1px solid grey;" }</center>
+![image_alt](img/mqtt_explorer_view.png){width="512"  style="border: 1px solid grey;" }</center>
 
 On startup, E-BOARD device connects to MQTT server and immediately publishes a message with the topic **pglab/discovery/E-BOARD-[ID]**. The message is in JSON format,
 it can be used to discover all E-BOARD devices connected to the server.
 In particular, it contains the following information:
 
-<center>![image_alt](img/discovery_json.png){width="512"  style="border: 1px solid grey;" }</center>
+![image_alt](img/discovery_json.png){width="512"  style="border: 1px solid grey;" }</center>
 
 !!! notes
     **id** is the name of the E-BOARD client connected to the MQTT server. It is used to send commands and/or receive updates from E-BOARD.<br>

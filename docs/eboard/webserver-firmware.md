@@ -8,7 +8,7 @@ Over The Air Firmware update allows you to remotely update the Firmware of E-BOA
 
 From the Home page go to the About page, you should see a page similar to the following picture.
 
-<center>![image_alt](img/about.png){width="512"  style="border: 1px solid grey;" }</center>
+![image_alt](img/about.png){width="512"  style="border: 1px solid grey;" }</center>
 
 In the previous picture you can see various information of the device, such as, current Firmware Version, Serial Number, MQTT server connection, CPU Voltage and Temperature and more.
 
@@ -40,7 +40,7 @@ You have to proceed in the following mode:
 - Keep pressing down until the Green LED on the E-BOARD blinks rapidly. This informs the user that E-BOARD is now ready to restore the original firmware
 - Now release the Reset button
 
-<center>![image_alt](img/eboard_reset.png)</center>
+![image_alt](img/eboard_reset.png){: .center}
 
 From your browser, check the About Page in **DEVICE INFORMATION** to see if the Firmware Version has been updated.
 

@@ -1,8 +1,7 @@
 E-BOARD
 =======
 
-
-<center>![image_alt](img/eboard.png)</center>
+![image_alt](img/eboard.png){: .center}
 
 Description
 -----------
@@ -54,9 +53,9 @@ Mechanical Information
 Functional Overview
 -------------------
 
-<center>![image_alt](img/eboard_overview.png)</center>
+{: .center}![image_alt](img/eboard_overview.png){: .center}
 
-<center>*E-BOARD Product View*</center><br />
+<p style="text-align: center; font-weight: bold">E-BOARD Product View</p><br>
 
 | **Ref.**     |  **Description**          |
 | :------------| :-------------------------|
@@ -71,9 +70,9 @@ Functional Overview
 Mechanical Information
 ----------------------
 
-<center>![image_alt](img/eboard_dimension.png)</center>
+[image_alt](img/eboard_dimension.png){: .center}
 
-<center>*E-BOARD outline (dimensions in mm).*</center><br />
+<p style="text-align: center; font-weight: bold">E-BOARD outline (dimensions in mm).</p><br>
  
 | **Description**           |  **Value**                           |
 | :-------------------------| :----------------------------------- |
@@ -100,9 +99,9 @@ E-BOARD must operate under the following conditions.
 I2C Connector
 -------------
 
-<center>![image_alt](img/i2c.png)</center>
+![image_alt](img/i2c.png){: .center}
 
-<center>*I2C Bus Connector*</center><br />
+<p style="text-align: center; font-weight: bold">I2C Bus Connector</p><br>
 
 | **Pin**      |  **Description**         |
 | :------------| :------------------------|
@@ -118,9 +117,9 @@ The E-BOARD I2C connector is a 4 pin JST 2.0mm pitch. The I2C connector is used 
 Board Topology
 --------------
 
-<center>![image_alt](img/eboard_board.png)</center>
+![image_alt](img/eboard_board.png){: .center}
 
-<center>*E-BOARD Circuit Top View*</center><br />
+<p style="text-align: center; font-weight: bold">E-BOARD Circuit Top View</p><br>
 
 
 | **Ref.**     |  **Description**                           |
@@ -132,7 +131,7 @@ Board Topology
 | L1           | Power Red LED                              |
 | L2           | Status Green LED                           |
 | S1           | Reset Button                               |
-| U1           | Step Down Converter MPM3610GQV             |     
+| U1           | Step Down Converter MPM3610GQV             |
 | U2           | I2C I/O Bus Expander PCF8574               |
 | U3           | Microcontroller STM32F103TBU6              |
 | U4           | Ethernet Controller ENC28J60               |
@@ -142,9 +141,9 @@ Board Topology
 Wiring Diagram
 --------------
 
-<center>![image_alt](img/eboard_connection.png)</center>
+![image_alt](img/eboard_connection.png){: .center}
 
-<center>*E-BOARD connected to E-RELAY*</center><br />
+<p style="text-align: center; font-weight: bold">E-BOARD connected to E-RELAY</p><br>
 
 Setup and Use
 -------------

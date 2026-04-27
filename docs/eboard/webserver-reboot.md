@@ -3,7 +3,7 @@ Reboot
 
 From the Home page go to the Reboot page. You should see a page similar to the following picture.
 
-<center>![image_alt](img/reboot.png){width="512"  style="border: 1px solid grey;" }</center>
+![image_alt](img/reboot.png){width="512"  style="border: 1px solid grey;" }</center>
 
 The page is used to reboot E-BOARD. When settings have been changed E-BOARD requires a reboot in order to register the new settings.
 

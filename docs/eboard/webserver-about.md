@@ -3,7 +3,7 @@ About
 
 From the Home page go to the About page. You should see a page similar to the following picture.
 
-<center>![image_alt](img/about.png){width="512"  style="border: 1px solid grey;" }</center>
+![image_alt](img/about.png){width="512"  style="border: 1px solid grey;" }</center>
 
 In the picture you can see the **DEVICE INFORMATION** as show in this table:
 

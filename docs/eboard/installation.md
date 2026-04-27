@@ -23,21 +23,21 @@ Attach E-BOARD and E-RELAY as shown in the Figure 1.1. Be sure that the ethernet
 the black hook of the body enclosure is pointing down. You can use a screw driver to
 better engage the hook in the DIN bar.
 
-<center>![image_alt](img/eboard_on_din.png)<figcaption>Figure 1.1</figcaption></center>
+![image_alt](img/eboard_on_din.png)<figcaption>Figure 1.1</figcaption></center>
 
 Be sure to connect the power lines respecting the polarity as shown in Figure 1.2.
 E-RELAY has a double input port to facilitate connecting multiple devices in a daisy chain mode.
 
-<center>![image_alt](img/eboard_power_port.png)<figcaption>Figure 1.2</figcaption></center>
+![image_alt](img/eboard_power_port.png)<figcaption>Figure 1.2</figcaption></center>
 
 Connect the I2C port to the E-RELAY I2C port using the supply 4 pin cable as shown in Figure 1.3. E-RELAY has a double 
 I2C BUS port to facilitate connecting multiple devices in a daisy chain mode. Use the other I2C port to connect multiple E-RELAY's.
 
-<center>![image_alt](img/eboard_i2c_port.png)<figcaption>Figure 1.3</figcaption></center>
+![image_alt](img/eboard_i2c_port.png)<figcaption>Figure 1.3</figcaption></center>
 
 !!! warning
     Be sure that there is no voltage on the input power terminal when connecting or disconnecting the I2C cable. E-BOARD does not support hot swapping.
 
 Connect E-BOARD to your local network with a Cat5E cable to your router or switcher as shown in the Figure 1.4.
 
-<center>![image_alt](img/eboard_rj45_port.png)<figcaption>Figure 1.4</figcaption></center>
+![image_alt](img/eboard_rj45_port.png)<figcaption>Figure 1.4</figcaption></center>
