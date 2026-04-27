@@ -23,7 +23,7 @@ It should do the following:
 
 <center>![image_alt](img/relay.png){width="512"  style="border: 1px solid grey;" }</center>
 
-Relay output can also be controlled by MQTT messages. Please see [MQTT](webserver-mqtt.md) for further details.
+Relay output can also be controlled by MQTT messages. Please see [MQTT](mqtt.md) for further details.
 
 On the [Setting](webserver-setting.md) page you can find:
 

@@ -104,5 +104,5 @@ E-BOARD uses the following topics: <br>
 | pglab/deviceid/sensor/value           | temp, volt, rtime         | JSON message that reports: CPU temperature, CPU voltage and time in seconds since last reboot. |
 
 !!! notes
-    **[deviceid]** is E-BOARD setting {==MQTT ID==}, see [Network](webserver-network.id) page. <br>
+    **[deviceid]** is E-BOARD setting {==MQTT ID==}, see [Network](webserver-network.md) page. <br>
     **[index]** can be from 0 to 63 to select a Relay Output or from 0 to 31 to select a Shutter Output.

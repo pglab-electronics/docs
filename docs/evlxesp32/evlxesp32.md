@@ -1,6 +1,6 @@
 # E-VLXESP32
 
-<center>![E-VLXESP32](img/evlxesp32.png){width=512}</center>
+![E-VLXESP32](./img/evlxesp32.png){width=512}
 
 ## Description
 

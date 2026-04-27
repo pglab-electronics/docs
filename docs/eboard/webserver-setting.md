@@ -67,7 +67,7 @@ The following settings are used to set the Shutter outputs and to set the timing
 
     For example, in a scenario with 3 shutters set {== Shutter_Controls ==} to the value 3.
     E-BOARD now reserves relay outputs from 0 to 5 to control the 3 shutters. E-BOARD uses the relay outputs 0, 2, 4 for opening and the relay outputs 1, 3, 5 for closing.
-    Please see [Wiring](wiring.md) for further details.
+    Please see [Wiring](../erelay/wiring.md) for further details.
 
 The {==Relay_Auto_OFF==} allows you to set the timing of each individual Relay output. This overrides the global setting {==Auto_OFF==}.
 From the dropdown menu of {==Relay_Auto_OFF==} select the Relay index output (0 to 64) and then set the value in seconds.

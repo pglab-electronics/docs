@@ -45,7 +45,7 @@ The following image shows the power line wiring connections.
 
 !!! important
     Ensure that the **VELUX®** wall remote control has been prepared as described in the  
-    [Preparation](preparation.md) section before continuing.
+    [Preparation](remote-control.md) section before continuing.
 
 Before starting the installation, verify that the circuit breakers are switched **off** and that no voltage is present on the power lines.
 Use a phase tester or multimeter to confirm this (Fig. 2).

@@ -43,7 +43,7 @@ When clicking the **Shutter0** CLOSE button. This turns ON the terminal output t
 <center>![image_alt](img/shutter_stop.png){width="512" }</center>
 When the shutter is opening or closing, you can always stop the shutter by clicking the STOP button. This turns OFF the terminal outputs of **Relay0** and **Relay1**.
 
-Shutter output can be controlled also by MQTT messages. Please see [MQTT](webserver-mqtt.md) for further details.
+Shutter output can be controlled also by MQTT messages. Please see [MQTT](mqtt.md) for further details.
 
 On the [Setting](webserver-setting.md) page you can find:
 
