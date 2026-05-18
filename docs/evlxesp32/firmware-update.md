@@ -53,13 +53,15 @@ Version: 2025.8.0
 
 ### Step 2: Configure Your Device
 
-1. Download **evlxesp32.yaml** YAML file from this [link](https://github.com/pglab-electronics/e-vlxesp32).  
+1. Download the **evlxesp32.yaml** file from this [link](https://github.com/pglab-electronics/e-vlxesp32).  
 2. Open it in a text editor.
-3. Update and save the file as described in this steps.
+3. Modify and save the file according to your needs.
+
+You can fully customize this configuration to match your setup. For example, you can update the device name, Home Assistant API settings, Wi-Fi credentials, and any other parameters supported by ESPHome.
 
 #### Update Device Name
 
-Each device must have a **unique name**. This name is used in Home Assistant and to access the internal device web server:
+Each device must have a **unique name**. This name is used in Home Assistant and for accessing the internal device web server:
 
 ```yaml
 esphome:
@@ -78,7 +80,7 @@ api:
 
 #### Set Wi-Fi Credentials
 
-Replace with your network credentials:
+Replace with your own network credentials:
 
 ```yaml
 wifi:
@@ -110,137 +112,58 @@ When prompted, select **USB JTAG/Serial** option as show in Fig. 3.
 
 ---
 
-
-
-
-
 ## Option 2: Home Assistant add-on
-Add missing information
 
+Home Assistant includes an add-on called **ESPHome Builder**.
+
+With this add-on, you have full control over your ESPHome devices. Click on the discovered device and select **TAKE CONTROL**.
+
+![ESPHome Builder](img/esphome_builder.png){: .center width="512"}
+
+Home Assistant will download the **E-VLXESP32** YAML configuration file from the GitHub repository, along with all required dependencies needed to compile and flash the firmware.
+
+This step may take some time on certain systems.
+
+When finished, you should be able to see your **E-VLXESP32** device **ONLINE**.
+
+![ESPHome Builder](img/esphome_builder_edit.png){: .center width="512"}
+
+
+Click **EDIT**, modify the configuration according to your needs, then click **SAVE & INSTALL** to flash the firmware.
+
+![ESPHome Builder](img/esphome_builder_script.png){: .center width="512"}
+
+The **E-VLXESP32** supports OTA updates, so you can flash new firmware without a physical USB connection.
+In this case click **Wirelessly** when HomeAssistant ask how to flash the update firmware.
+
+![ESPHome Builder](img/esphome_builder_flash.png){: .center width="512"}
 
 ---
 
 ## Verify Connection
-After few minutes E-VLXESP32 is connecting to your local WIFI. You should be able to connect to the internal web server typing on your browser the following:
-http://evlxesp32.local
 
+When the firmware is been flashed, the device reboot.
+After few minutes **E-VLXESP32** is connecting to your local WIFI. You should be able to connect to the internal web server typing on your browser the device name as the following:
 
-
-
-
-
-
-Flashing the Firmware
-=====================
-
-This chapter explain how to flash the E-VLXESP32 firmware.
-
-Flashing the firmware is needed to be able to control E-VLXESP32 from HomeAssistant in your local WIFI network.
-It’s a straightforward process, and you can choose the method you’re most comfortable with.
-
-Please be sure to follow carefully the following instructions.
-
-:warning: **Warning** Don't connect E-VLXESP32 to the power 110/220 AC line
-
-:warning: **Warning** Don't connect the VELUX front cover
-
-The following picture show what is needed.
-
-
-You can flash the firmware either:
-
-- From the command line on your terminal window.
-  
-- Using Home Assistant with the ESPHome Builder add-on, or
-
-Command Line
-------------
-
-Installing Command Line Tool
-----------------------------
-
-The following steps describe how to install [ESPHome command line tool](https://esphome.io/guides/installing_esphome/) on your machine.
-
-You should be able now to confirm that ESPHome has been successfully installed.
-Open your terminal window and type:
-
-``` yaml
-$ esphome --version
-```
-
-you should see something like:
-
-``` yaml
-Version: 2025.8.0
-```
-
-Configuration file
-------------------
-
-The E-VLXESP32 configuration file is available [here](https://github.com/pglab-electronics/e-vlxesp32).
-Download and open it with your text editor.
-You have to do the following change.
-
-If needed, rename your E-VLXESP32 device. This is the name that is going to be show in home assistant and it's the name used to the access of the internal web server.
-Be sure to use a different name for every E-VLXESP32 device in your home configuration.
-
-```yaml
-esphome:
-  name: evlxesp32
-```
-
-If needed, replace HomeAssistant API key.
-The key must be unique for every E-VLXESP23 device in your home setup.
-Use the following [link](https://esphome.io/components/api/) to generate a new key.
-
-
-```yaml
-api:
-  encryption:
-    key: "pQUjUzzg6T7NuOX4uYN6v4XvBkFcAQHzmYbr63DFmD4="
-```
-
-Replace the following with the credential to connect to your local WIFI network.
-
-```yaml
-wifi:
-  ssid: "WIFI_SSID"
-  password: "WIFI_PASSWORD"
-```
-
-Flash the Firmware
-
-Connect E-VELUX to your computer using a USB cable.
-
-Open a terminal and run:
-
-```yaml
-esphome run evlxesp32.yaml
-```
-
-ESPHome will compile the firmware. When prompted, choose the option to upload the firmware via the USB port.
-
-Done !!!
-
-After few minutes E-VLXESP32 is connecting to your local WIFI. You should be able to connect to the internal web server typing on your browser the following:
-http://evlxesp32.local
+    http://e-vlxesp32-d1f45c.local
 
 You should be able to see a page similar to the following.
-From here you can monitor environment humidity, temperature and control the VELUX skylight.
-E-VLXESP32 has also a green led used for test purpose.
+
+![Internal web-server](img/evlxesp32_webserver.png){: .center  width="512"}
+
+From here you can monitor environment humidity, temperature and control the **VELUX®** skylight.
+
+ **E-VLXESP32** has also a green led used for test purpose.
 
 To confirm that every things works properly you should be able to toggle the LED state as show here.
 
+## Final note
 
+The green LED (user LED) is used to confirm that the device is connected and responsive.
 
-HomeAssistant Add On
--------------
+You can toggle the LED state as shown below to verify that the **E-VLXESP32** is working correctly.
 
-ESPHome.... builder
-
-Final note
-----------
-If you don't want to expose the control of the green led to HomeAssistant change the yaml configuration file replace:
+If you do not want to expose control of the green LED to Home Assistant, modify the YAML configuration file and remove or adjust the following section:
 
 ```yaml
 platform: gpio
@@ -256,13 +179,6 @@ platform: gpio
   name: "Led Green"
   internal: true
 ```
-
-From you terminal overwrite the firmware running:
-
-```yaml
-esphome run evlxesp32.yaml
-```
-
 
 ⚠️ Important Safety Notes:
 
