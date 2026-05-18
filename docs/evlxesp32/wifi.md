@@ -13,13 +13,16 @@ Look for the hotspot:
     SSID: E-VLXESP32 XXXXXX Hotspot
     Password: PQvB!h7@
 
-## Connect and configure ##
+!!! note
+    New firmware versions allow connecting to the hotspot without entering the password.
+
+## Connect and configure
 
 Connect to the **E-VLXESP32** hotspot using your phone or laptop.
 When the setup page opens automatically, select your home **Wi-Fi** network and enter the password.
 The device will restart and connect to your network.
 
-## If the captive portal doesn't open ##
+## If the captive portal doesn't open
 
 Open a browser and go to http://192.168.4.1 and configure your **Wi-Fi** from there.
 
