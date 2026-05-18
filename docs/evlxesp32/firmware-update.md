@@ -179,9 +179,3 @@ platform: gpio
   name: "Led Green"
   internal: true
 ```
-
-⚠️ Important Safety Notes:
-
-Only connect the VELUX remote front panel when E-VLXESP32 is NOT connected to the USB cable.
-
-Do NOT insert any batteries.
