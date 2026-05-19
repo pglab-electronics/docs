@@ -99,7 +99,3 @@ Your **VELUX®** wall remote control is now ready to be connected to **E-VLXESP3
 ![Remote ready](img/evlxesp32_cover.png){: .center }
 
 <p style="text-align: center; font-weight: bold">Fig. 6 – Remote ready for connection</p>
-
-## Next Step
-
-Precede with [wall installation](wall-installation.md).

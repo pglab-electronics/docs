@@ -25,7 +25,3 @@ The device will restart and connect to your network.
 ## If the captive portal doesn't open
 
 Open a browser and go to http://192.168.4.1 and configure your **Wi-Fi** from there.
-
-## Next Step
-
-Precede with [Home Assistant setup](homeassistant.md).

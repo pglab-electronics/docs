@@ -97,7 +97,3 @@ You may now restore power by turning the circuit breakers back on.
 ![Installation complete](img/wall_installed.png){: .center}
 
 <p style="text-align: center; font-weight: bold">Fig. 7 – Installation complete</p>
-
-## Next Step
-
-Precede with [Wi-Fi setup](wifi.md).
