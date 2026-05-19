@@ -4,7 +4,7 @@ The **E-VLXESP32** is a compact electronics module featuring an integrated **tem
   
 It is designed to interface with battery-powered **VELUX®** wall remote controls **(*)** (models **KLI311, KLI312, KLI313**) and allows users to explore and test smart automation for remotely controlling **VELUX®** motorized skylight windows.
 
-The E-VLXESP32 connects seamlessly to your Home Assistant system over WiFi. Powered by ESPHome, it automatically detects all sensors and features, letting you create dashboards and automations in just minutes—without any complicated setup.
+The **E-VLXESP32** connects seamlessly to your Home Assistant system over **WiFi**. Powered by **ESPHome**, it automatically detects all sensors and features, letting you create dashboards and automation in just minutes—without any complicated setup.
 
 ## Product Versions
 
