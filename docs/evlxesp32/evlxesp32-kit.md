@@ -89,12 +89,14 @@ The plastic enclosure of the device must be 3D print.
 
 | **Pin**    | **Function.**           |
 |------------|-------------------------|
-| GPIO02     | I2C SCL                 |
-| GPIO03     | I2C SDA                 |
-| GPIO01     | Pogo Pin DOWN switch    |
-| GPIO07     | Pogo Pin STOP switch    |
-| GPIO05     | Pogo Pin UP switch      |
-| GPIO10     | User Green Led          |
+| GPIO3      | I2C SDA                 |
+| GPIO2      | I2C SCL                 |
+| GPIO1      | POGO PIN DOWN (shutter) |
+| GPIO7      | POGO PIN STOP (shutter) |
+| GPIO5      | POGO PIN UP (shutter)   |
+| GPI10      | POGO PIN UP (binary sensor)   |
+| GPIO6      | POGO PIN STOP (binary sensor) |
+| GPIO0      | POGO PIN DOWN (binary sensor) |
 
 ---
 
