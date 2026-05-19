@@ -52,18 +52,6 @@ Follow these steps to add a new device:
 
     Newer firmware versions do not require any encryption key.
 
-- In your browser connect to your Home Assistant web page
-- Go to Settings>Device & Services
-- On top of the page under Discovered section you should see your E-VLXESP32 device
-- Click Add
-
-![Encryption Key](img/encryption_key.png){: .center width="512"}
-
-- Home Assistant should ask the **Encryption Key**
-- Please enter:
-  
-        pQUjUzzg6T7NuOX4uYN6v4XvBkFcAQHzmYbr63DFmD4=
-
 Congratulations — the **E-VLXESP32** is now fully integrated into Home Assistant.
 
 ## Use E-VLXESP32
