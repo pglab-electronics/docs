@@ -76,6 +76,7 @@ nav:
       - WI-FI SETUP: evlxesp32/wifi.md        
       - HOME ASSISTANT: evlxesp32/homeassistant.md
       - FIRMWARE UPDATE: evlxesp32/firmware-update.md
+      - RECYCLING: recycling.md
 
 markdown_extensions:
   - admonition
