@@ -13,7 +13,7 @@ Products covered by this directive should not be disposed of with standard house
 
 ## Protection of Personal Data
 
-Certain electrical and electronic products may store personal information, depending on the product type. This can include devices connected to apps or Wi-Fi services.
+Certain electrical and electronic products may store personal information, depending on the product type. This can include devices connected to Wi-Fi services.
 Before disposing of any WEEE product, the user is responsible for removing or deleting all personal data stored on the device.
 
 ## Registrations
