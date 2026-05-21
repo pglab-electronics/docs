@@ -8,6 +8,7 @@ Many electrical and electronic devices can be recycled. For details about collec
 
 ## Disposal of Electronic Devices
 
+![Recycling](./img/weee.png){: .center width="256"}
 The symbol shown on the product and/or its packaging indicates that the item falls under the Waste Electrical and Electronic Equipment Directive 2012/19/EU.
 Products covered by this directive should not be disposed of with standard household waste.
 
