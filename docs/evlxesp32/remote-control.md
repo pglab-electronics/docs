@@ -91,6 +91,24 @@ All gold-plated pads must be in the same position.
 
 ---
 
+## Step 5 – Verify Mechanical compatibility
+
+The plastic enclosure of **E-VLXESP32** is only mechanically compatible with the new **VELUX®** remote cover **KLI311, KLI312, KLI313**.
+As shown in the image below, make sure that the snap-fit mechanism indicated by the purple arrows matches the one on your **VELUX®** remote.
+
+![Compatible Remote side layout](img/cover_side.png){: .center}
+
+<p style="text-align: center; font-weight: bold">Fig. 6 – Compatible **VELUX®** remote</p>
+
+!!! Note
+    Some older KL313 units may have been manufactured with a different internal mechanical design than the one shown above.
+    **E-VLXESP32** is not mechanical compatible with older KL313 **VELUX** remote. 
+
+!!! Important
+    Do not attempt to install **E-VLXESP32** in an incompatible remote. This may cause irreversible damage to both the **E-VLXESP32** and the incompatible **VELUX®** remote.
+
+---
+
 ## Completion
 
 Congratulations!  
@@ -98,4 +116,4 @@ Your **VELUX®** wall remote control is now ready to be connected to **E-VLXESP3
 
 ![Remote ready](img/evlxesp32_cover.png){: .center }
 
-<p style="text-align: center; font-weight: bold">Fig. 6 – Remote ready for connection</p>
+<p style="text-align: center; font-weight: bold">Fig. 7 – Remote ready for connection</p>
