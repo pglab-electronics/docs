@@ -102,10 +102,25 @@ As shown in the image below, make sure that the snap-fit mechanism indicated by 
 
 !!! Note
     Some older KL313 units may have been manufactured with a different internal mechanical design than the one shown above.
-    **E-VLXESP32** is not mechanical compatible with older KL313 **VELUX** remote. 
+    **E-VLXESP32** is not mechanical compatible with older KL313 **VELUX** remote.
 
 !!! Important
     Do not attempt to install **E-VLXESP32** in an incompatible remote. This may cause irreversible damage to both the **E-VLXESP32** and the incompatible **VELUX®** remote.
+
+The following images (Figures 7, 8, and 9) compare the old and new versions of the **VELUX®** remote control.
+
+**E-VLXESP32** is only compatible with the new version of the remote. Before installation, verify that you have the correct remote model by comparing it with the examples below. The compatible remote is marked with a green **YES** in the images.
+
+The remote marked with a red **NO** is not mechanically compatible with the **E-VLXESP32** and cannot be used.
+
+![Compatible Remote side layout](img/remote_mechanical_1.png){: width="512" .center}
+<p style="text-align: center; font-weight: bold">Fig. 7 – Side view comparison of old and new **VELUX®** remotes</p>
+
+![Compatible Remote side layout](img/remote_mechanical_2.png){: width="512" .center}
+<p style="text-align: center; font-weight: bold">Fig. 8 – Top view comparison of old and new **VELUX®** remotes</p>
+
+![Compatible Remote side layout](img/remote_mechanical_3.png){: width="512" .center}
+<p style="text-align: center; font-weight: bold">Fig. 9 – Additional top view comparison of old and new **VELUX®** remotes</p>
 
 ---
 
