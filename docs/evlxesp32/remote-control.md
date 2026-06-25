@@ -98,7 +98,7 @@ As shown in the image below, make sure that the snap-fit mechanism indicated by 
 
 ![Compatible Remote side layout](img/cover_side.png){: .center}
 
-<p style="text-align: center; font-weight: bold">Fig. 6 – Compatible **VELUX®** remote</p>
+<p style="text-align: center; font-weight: bold">Fig. 6 – Compatible VELUX® remote</p>
 
 !!! Note
     Some older KL313 units may have been manufactured with a different internal mechanical design than the one shown above.
@@ -114,13 +114,13 @@ The following images (Figures 7, 8, and 9) compare the old and new versions of t
 The remote marked with a red **NO** is not mechanically compatible with the **E-VLXESP32** and cannot be used.
 
 ![Compatible Remote side layout](img/remote_mechanical_1.png){: width="512" .center}
-<p style="text-align: center; font-weight: bold">Fig. 7 – Side view comparison of old and new **VELUX®** remotes</p>
+<p style="text-align: center; font-weight: bold">Fig. 7 – Side view comparison of old and new VELUX® remotes</p>
 
 ![Compatible Remote side layout](img/remote_mechanical_2.png){: width="512" .center}
-<p style="text-align: center; font-weight: bold">Fig. 8 – Top view comparison of old and new **VELUX®** remotes</p>
+<p style="text-align: center; font-weight: bold">Fig. 8 – Top view comparison of old and new VELUX® remotes</p>
 
 ![Compatible Remote side layout](img/remote_mechanical_3.png){: width="512" .center}
-<p style="text-align: center; font-weight: bold">Fig. 9 – Additional top view comparison of old and new **VELUX®** remotes</p>
+<p style="text-align: center; font-weight: bold">Fig. 9 – Additional top view comparison of old and new VELUX® remotes</p>
 
 ---
 
@@ -131,4 +131,4 @@ Your **VELUX®** wall remote control is now ready to be connected to **E-VLXESP3
 
 ![Remote ready](img/evlxesp32_cover.png){: .center }
 
-<p style="text-align: center; font-weight: bold">Fig. 7 – Remote ready for connection</p>
+<p style="text-align: center; font-weight: bold">Fig. 10 – Remote ready for connection</p>
