@@ -27,3 +27,4 @@ An overview of the registrations is provided below.
 | :--- | :--- | :--- | :--- |
 | Netherlands | WEEE | CO10024732 | Stichting Open |
 | Germany | WEEE | DE 86143779 | Stiftung ear |
+| Italy | WEEE | IT 26070000019078 | Registro A.E.E. |
