@@ -99,6 +99,28 @@ actions:
     data: {}
 ```
 
+## Shutter opening and closing time
+
+Starting with **firmware version 1.3**, the shutter opening and closing times are available as user-configurable settings through the **ESPHome** integration in Home Assistant.
+
+To access these settings, open the **E-VLXESP32 device** page in the **ESPHome** integration in Home Assistant. You will find the settings for the shutter opening time and closing time there.
+
+![Encryption Key](img/shutter_time.png){ width="350", align="center" }
+
+There is no longer any need to manually modify the firmware source code and recompile the firmware to configure the times for your specific window.
+
+You can now change the opening and closing times directly from the Home Assistant interface, without modifying or recompiling the firmware.
+
+Both values are expressed in seconds. Set each value according to the time required by your shutter to fully open or fully close.
+
+For example, if your shutter takes 25 seconds to open and 23 seconds to close, set:
+
+**Shutter Open time**: 25 seconds
+
+**Shutter Close time**: 23 seconds
+
+The settings can be changed at any time from Home Assistant.
+
 ## Note:
 
 It's possible to operate multiple **VELUX®** skylight windows with HomeAssistant.
