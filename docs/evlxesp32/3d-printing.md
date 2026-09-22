@@ -25,3 +25,11 @@ Be sure to align correctly the PCB to the enclosure as show in the following pic
 At this point you are ready to snap fit the **VELUX®** cover.
 
 ![Snap fit](img/evlxesp32_kit_snap.gif){: .center width="512"}
+
+## Screws
+
+Use **M3 × 5 mm** self-tapping screws for securing the PCB inside the 3D printed enclosure.
+
+![Screws](img/evlxesp32_screws.png){: .center width="512"}
+
+No other screw size is required for the assembly.
