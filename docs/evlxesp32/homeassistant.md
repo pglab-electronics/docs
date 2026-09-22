@@ -105,7 +105,7 @@ Starting with **firmware version 1.3**, the shutter opening and closing times ar
 
 To access these settings, open the **E-VLXESP32 device** page in the **ESPHome** integration in Home Assistant. You will find the settings for the shutter opening time and closing time there.
 
-![Encryption Key](img/shutter_time.png){ width="350", align="center" }
+![Shutter Time](img/shutter_time.png){ width="350", align="center" }
 
 There is no longer any need to manually modify the firmware source code and recompile the firmware to configure the times for your specific window.
 
